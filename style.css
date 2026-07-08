@@ -1,0 +1,26 @@
+h1{
+      font-style : italic;
+      font-size : 70px;
+      font-weight : bold;
+      text-decoration: turquoise underline;
+       margin: 10 30px;
+}
+#colorcode{
+    font-style:oblique;
+    font-weight:bold;
+    text-align:center;
+    margin:30px;
+    padding:10px;
+}
+#generateBtn{
+    color:black;
+    display:block;
+    font-style:italic;
+    font-size: 100px;
+    font-weight: bold;
+    background-color: aquamarine;
+    border-width: 200px;  
+    border-color: blue;
+    border-style: dashed;
+    border-radius:140px;
+}
