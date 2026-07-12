@@ -29,7 +29,8 @@ random-color-generator/
 
 ## 📸 Preview
 
-*Add a screenshot of your project here.*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/125f309a-8bed-48e4-92fe-bb4a3e808be5" />
+
 
 ## 📖 What I Learned
 
